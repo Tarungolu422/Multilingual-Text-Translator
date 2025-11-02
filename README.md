@@ -1,9 +1,5 @@
 <!-- PROJECT BANNER -->
 
-<p align="center">
-  <img src="C:\Multilingual Text Translator\assets\screenshots.png" alt="Multilingual Text Translator Banner" width="90%">
-</p>
-
 <h1 align="center">🌍 Multilingual Text Translator using Streamlit, mtranslate, and gTTS 🎧</h1>
 
 <p align="center">
@@ -118,7 +114,7 @@ User Input → Language Selection → Translation (mtranslate)
 
 | Input & Output                            |
 | ----------------------------------------- |
-| ![App Screenshot 1](assets/screenshot1.png) |
+| ![App Screenshot 1](assets/screenshots.png) |
 
 
 ---
