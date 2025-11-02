@@ -161,7 +161,7 @@ The app’s simplicity and efficiency make it ideal for **students, professional
 **Tarun Kumar Rathore**
 📅 *November 2025*
 📧 *Open to collaboration & feedback*
-🌐 *[LinkedIn Profile](https://www.linkedin.com/in/your-profile)*
+🌐 *[LinkedIn Profile](https://www.linkedin.com/in/tarun-kumar-rathore-3012a4246/)*
 
 ---
 
