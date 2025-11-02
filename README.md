@@ -1,7 +1,7 @@
 <!-- PROJECT BANNER -->
 
 <p align="center">
-  <img src="https://github.com/your-username/Multilingual-Text-Translator/blob/main/assets/banner.png" alt="Multilingual Text Translator Banner" width="90%">
+  <img src="C:\Multilingual Text Translator\assets\screenshots.png" alt="Multilingual Text Translator Banner" width="90%">
 </p>
 
 <h1 align="center">🌍 Multilingual Text Translator using Streamlit, mtranslate, and gTTS 🎧</h1>
@@ -120,7 +120,6 @@ User Input → Language Selection → Translation (mtranslate)
 | ----------------------------------------- |
 | ![App Screenshot 1](assets/screenshot1.png) |
 
-> *(Replace these with your own screenshots after running the app)*
 
 ---
 
